@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Infográfico de Projeção de Aposentadoria e Pirâmide Etária",
+    "section": "",
+    "text": "O histograma apresentado tem como objetivo esclarecer que a variável ANO_PRE_APO do conjunto de dados em questão não foi considerada em nossa análise. Isso se deve ao fato de que aproximadamente 75% das observações apresentam valores nulos para essa variável."
+  },
+  {
+    "objectID": "index.html#variável-do-tabelão-ano_pre_apo",
+    "href": "index.html#variável-do-tabelão-ano_pre_apo",
+    "title": "Infográfico de Projeção de Aposentadoria e Pirâmide Etária",
+    "section": "",
+    "text": "O histograma apresentado tem como objetivo esclarecer que a variável ANO_PRE_APO do conjunto de dados em questão não foi considerada em nossa análise. Isso se deve ao fato de que aproximadamente 75% das observações apresentam valores nulos para essa variável."
+  },
+  {
+    "objectID": "index.html#piramide-etária-dos-aposentados",
+    "href": "index.html#piramide-etária-dos-aposentados",
+    "title": "Infográfico de Projeção de Aposentadoria e Pirâmide Etária",
+    "section": "Piramide Etária dos Aposentados",
+    "text": "Piramide Etária dos Aposentados\nFoi desenvolvido um gráfico de pirâmide para os aposentados, considerando as faixas etárias dos servidores com base em suas idades:"
+  },
+  {
+    "objectID": "index.html#servidores-ativos",
+    "href": "index.html#servidores-ativos",
+    "title": "Infográfico de Projeção de Aposentadoria e Pirâmide Etária",
+    "section": "Servidores Ativos",
+    "text": "Servidores Ativos\nForam definidas faixas etárias (a cada cinco anos) para os servidores ativos, com base em suas idades atuais.\nNo ano de 2028, ocorre a transição de faixa etária para os servidores, evidenciando o acúmulo gradual dos totais em faixas etárias superiores.\nO mesmo padrão se repete nos anos de 2033 e 2038, sendo que neste último ano, ocorre a acumulação de servidores na faixa etária 75+ anos - Aposentadoria, devido ao alcance da idade compulsória para a aposentadoria.”"
+  },
+  {
+    "objectID": "index.html#simulando-um-total-de-ingressos-de-servidores-a-cada-período",
+    "href": "index.html#simulando-um-total-de-ingressos-de-servidores-a-cada-período",
+    "title": "Infográfico de Projeção de Aposentadoria e Pirâmide Etária",
+    "section": "Simulando um total de ingressos de Servidores a cada período",
+    "text": "Simulando um total de ingressos de Servidores a cada período\nFoi adotado um cenário hipotético de 8.000 novos ingressos de servidores a cada ano, na faixa etária de 25-29 anos.\nDessa forma, ao longo de um período de 5 anos, teremos um acréscimo total de 40.000 novos servidores, distribuídos igualmente por sexo, resultando em 20.000 ingressos para cada grupo.\nObserva-se que o padrão de comportamento desse gráfico assemelha-se ao mencionado anteriormente, onde a cada intervalo de cinco anos, os servidores alteram suas faixas etárias."
+  },
+  {
+    "objectID": "index.html#separados",
+    "href": "index.html#separados",
+    "title": "Infográfico de Projeção de Aposentadoria e Pirâmide Etária",
+    "section": "Separados",
+    "text": "Separados\nApenas para demostração cada gráfico separado."
+  },
+  {
+    "objectID": "index.html#projeção",
+    "href": "index.html#projeção",
+    "title": "Infográfico de Projeção de Aposentadoria e Pirâmide Etária",
+    "section": "Projeção",
+    "text": "Projeção\nNeste gráfico, foi representada a evolução do número total de servidores por sexo na última faixa etária, 75+ anos - Aposentadoria. Nesse contexto, partimos da premissa de que os servidores se aposentam compulsoriamente.\nÉ importante ressaltar que esses valores podem variar, pois há servidores que aposentam antes da idade compulsória, e o cálculo não considera o total de falecimentos."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#variável-do-tabelão-ano_pre_apo-ano-de-previsão-de-aposentadoria",
+    "href": "index.html#variável-do-tabelão-ano_pre_apo-ano-de-previsão-de-aposentadoria",
+    "title": "Infográfico de Projeção de Aposentadoria e Pirâmide Etária",
+    "section": "",
+    "text": "O histograma apresentado tem como objetivo esclarecer que a variável ANO_PRE_APO do conjunto de dados em questão não foi considerada em nossa análise. Isso se deve ao fato de que aproximadamente 75% das observações apresentam valores nulos para essa variável."
+  },
+  {
+    "objectID": "index.html#pirâmide-etária-dos-aposentados",
+    "href": "index.html#pirâmide-etária-dos-aposentados",
+    "title": "Infográfico de Projeção de Aposentadoria e Pirâmide Etária",
+    "section": "Pirâmide Etária dos Aposentados",
+    "text": "Pirâmide Etária dos Aposentados\nFoi desenvolvido um gráfico de pirâmide para os aposentados, considerando as faixas etárias dos servidores com base em suas idades:"
+  }
+]

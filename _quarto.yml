@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Pirâmide Etária dos Servidores Públicos"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Início
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    
+lang: pt
+
+
+
